@@ -2,6 +2,11 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.0-rc.8.
 
+## Generamos token con postman
+
+![TOKEN](https://github.com/tamueka/04-spotiapp/commits/master/src/assets/img/token.png)
+
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
